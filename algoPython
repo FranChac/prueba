@@ -1,0 +1,5 @@
+''' se acuerda de Python?'''
+print('panchy pura mierda\n')
+for k,V in X:
+  print(k)
+  print(v)
